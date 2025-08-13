@@ -1,0 +1,28 @@
+ویندوز و مک:
+
+1. دی ان اس و سایت discord.com :
+	78.157.42.100
+	78.157.42.101
+و سایت discord.com
+
+2. وی پی ان و اپ دسکتاپ Discord
+
+3. (برای مک) استفاده از DNS over HTTPS :
+	https://zepto-sto-1.edge.nextdns.io
+
+
+اندروید:
+
+1. استفاده از وی پی ان و اپ Discord
+
+2. استفاده از DNS over HTTPS با استفاده از اپ Intra :
+	https://zepto-sto-1.edge.nextdns.io
+
+3. استفاده از اپ Electro 
+
+
+آی او اس:
+
+1. استفاده از وی پی ان و اپ Discord
+
+2. استفاده از DNS over HTTPS با استفاده از پروفایل .mobileconfig 
